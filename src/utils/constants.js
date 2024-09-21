@@ -1,0 +1,46 @@
+import MusicNoteIcon from "@mui/icons-material/MusicNote";
+import HomeIcon from "@mui/icons-material/Home";
+import CodeIcon from "@mui/icons-material/Code";
+import OndemandVideoIcon from "@mui/icons-material/OndemandVideo";
+import SportsEsportsIcon from "@mui/icons-material/SportsEsports";
+import LiveTvIcon from "@mui/icons-material/LiveTv";
+import SchoolIcon from "@mui/icons-material/School";
+import FaceRetouchingNaturalIcon from "@mui/icons-material/FaceRetouchingNatural";
+import CheckroomIcon from "@mui/icons-material/Checkroom";
+import GraphicEqIcon from "@mui/icons-material/GraphicEq";
+import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
+import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
+import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
+
+export const logo =
+  "https://i.pinimg.com/originals/72/ad/d6/72add67ff9f5065095af6d8eb1e81f79.jpg";
+
+export const categories = [
+  { name: "New", icon: <HomeIcon /> },
+  { name: "Farrux Developer", icon: <CodeIcon /> },
+  { name: "Coding", icon: <CodeIcon /> },
+  { name: "ReactJS", icon: <CodeIcon /> },
+  { name: "NextJS", icon: <CodeIcon /> },
+  { name: "Music", icon: <MusicNoteIcon /> },
+  { name: "Education", icon: <SchoolIcon /> },
+  { name: "Podcast", icon: <GraphicEqIcon /> },
+  { name: "Movie", icon: <OndemandVideoIcon /> },
+  { name: "Gaming", icon: <SportsEsportsIcon /> },
+  { name: "Live", icon: <LiveTvIcon /> },
+  { name: "Sport", icon: <FitnessCenterIcon /> },
+  { name: "Fashion", icon: <CheckroomIcon /> },
+  { name: "Beauty", icon: <FaceRetouchingNaturalIcon /> },
+  { name: "Comedy", icon: <TheaterComedyIcon /> },
+  { name: "Gym", icon: <FitnessCenterIcon /> },
+  { name: "Crypto", icon: <DeveloperModeIcon /> },
+];
+
+export const demoThumbnailUrl =
+  "https://i.ytimg.com/vi/hJXSZjxXspg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAroJCGUC3aFLHBhIkHwR4xarCecQ";
+export const demoChannelUrl = "/channel/@FarruxDeveloper";
+export const demoVideoUrl = "/video/vN4KwV4LC9M?si=eIppd2Q-LV6fNQXP";
+export const demoChannelTitle = "Farrux Developer";
+export const demoVideoTitle =
+  "Dasturlashni eng so'ngli bilimlar asosida o'rganing";
+export const demoProfilePicture =
+  "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
